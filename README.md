@@ -1,1 +1,1 @@
-# writings.github.io
+# writings
