@@ -1,1 +1,1 @@
-# froyodai.github.io
+# writings.github.io
