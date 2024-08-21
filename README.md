@@ -1,6 +1,6 @@
 # About this site
 
-Build on [Jekyll](http://jekyllrb.com) to support my personal port
+Build on [Jekyll](http://jekyllrb.com) to support my personal portal
 
 
 
